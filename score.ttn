@@ -1,0 +1,16 @@
+gameType PL1vsPC
+gameSpeed 45
+padSize 7
+probability 85
+ballPositionX 54
+ballPositionY 18
+ballCurrentDirectionX 0
+ballCurrentDirectionY 0
+ballDirection Left
+firstRacketY 4
+secondRacketY 18
+PL1Points 0
+PL1SetsWon 0
+PL2Points 0
+PL2SetsWon 0
+firstPlayerService False

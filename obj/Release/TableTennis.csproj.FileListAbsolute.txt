@@ -1,0 +1,6 @@
+I:\Telerik\Game\TableTennis\bin\Release\TableTennis.exe.config
+I:\Telerik\Game\TableTennis\bin\Release\TableTennis.exe
+I:\Telerik\Game\TableTennis\bin\Release\TableTennis.pdb
+I:\Telerik\Game\TableTennis\obj\Release\TableTennis.exe
+I:\Telerik\Game\TableTennis\obj\Release\TableTennis.pdb
+I:\Telerik\Game\TableTennis\obj\Release\TableTennis.csprojResolveAssemblyReference.cache
